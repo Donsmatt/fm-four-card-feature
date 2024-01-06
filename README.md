@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repository URL](https://github.com/Donsmatt/fm-four-card-feature)
+- Live Site URL: [Four card feature Challenge](https://fm-four-card-feature-donsmatt.vercel.app/)
 
 ## My process
 
