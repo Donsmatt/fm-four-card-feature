@@ -17,10 +17,11 @@ const config: Config = {
         "box-shadow": "1px 5px 10px rgba(0,0,0,0.2)",
       },
       colors: {
-        "accent": "hsl(234, 12%, 34%)",
-        "primary": "hsl(229, 6%, 66%)",
-        "secondary": "hsl(0, 0%, 98%)"
-      }
+        accent: "hsl(234, 12%, 34%)",
+        primary: "hsl(229, 6%, 66%)",
+        secondary: "hsl(0, 0%, 98%)",
+        "link-color": "hsl(228, 45%, 44%)",
+      },
     },
   },
   plugins: [],

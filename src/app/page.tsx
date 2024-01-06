@@ -1,6 +1,5 @@
 import Header from "@/components/header";
 import Card from "@/components/card";
-import "./styles.css";
 
 export default function Home() {
   return (
